@@ -1,0 +1,14 @@
+#wp-admin-bar-aioseop-pro-upgrade a {
+    font-style: italic;
+    color: orange !important;
+}
+
+.aioseop-admin-bar-logo {
+    float: left;
+    top: 3px;
+    background-repeat: no-repeat;
+    background-position: 0 6px;
+    background-size: 20px;
+    color: #a0a5aa;
+    content: url("");
+}
